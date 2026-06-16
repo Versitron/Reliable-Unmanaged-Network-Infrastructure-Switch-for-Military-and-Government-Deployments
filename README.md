@@ -138,9 +138,7 @@ This solution ensures fast deployment and stable performance across mission-crit
 
 Versitron delivers advanced unmanaged networking technologies engineered for military networks, government systems, telecom infrastructure, edge computing environments, and critical infrastructure facilities.
 
-Our solutions support organizations requiring an unmanaged network infrastructure switch, unmanaged switch for campus networks, <img width="287" height="21" alt="image" src="https://github.com/user-attachments/assets/91d715ce-86e0-4334-a110-78cac8c5398f" /><img width="287" height="21" alt="image" src="https://github.com/user-attachments/assets/f5d08d90-b196-4cc7-a14f-c73b95073f1f" />
-<img width="287" height="21" alt="image" src="https://github.com/user-attachments/assets/22b1128b-e468-4db6-954f-d3f1231c555e" />
-, unmanaged switch for critical infrastructure, unmanaged switch for military networks, unmanaged switch for government networks, unmanaged switch for telecom networks, unmanaged switch with gigabit ports, unmanaged switch with fiber ports, and unmanaged switch connectivity solution for mission-critical deployments.
+Our solutions support organizations requiring an unmanaged network infrastructure switch, unmanaged switch for campus networks, unmanaged switch for critical infrastructure, unmanaged switch for military networks, unmanaged switch for government networks, unmanaged switch for telecom networks, unmanaged switch with gigabit ports, unmanaged switch with fiber ports, and unmanaged switch connectivity solution for mission-critical deployments.
 
 ### Why Organizations Choose Versitron
 
